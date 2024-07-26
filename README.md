@@ -47,8 +47,8 @@ cool336 use RP2040-Zero,run qmk_firware.
 
 
 
-In addition, you will need a USB cable, keycaps, etc.
+In addition, you will need a USB cable, keyswitch,keycaps, etc.
 <br>
-この他に、USBケーブル、キーキャップ等が必要です。
+この他に、USBケーブル、キースイッチ、キーキャップ等が必要です。
 <br>
 
