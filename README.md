@@ -2,10 +2,16 @@
 
 ## What is cool336?
 
+Do you have an unused ISO enter key or 7U space key in a corner of your room?
+<br>
+
 cool336 is qaz layout keyboard.
 <br>
+
 cool336 has a iso enter key and 7U long space key.
 <br>
+
+
 
 ## firmware 
 
