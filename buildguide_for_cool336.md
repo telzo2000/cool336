@@ -102,7 +102,8 @@ QMK_FirmwareをPCからRP-2040Zeroにインストールしてください。
 <br>
 ① Download https://github.com/telzo2000/cool336/blob/main/firmware/cool336_vial.uf2 to your PC.
 <br>
-① https://github.com/telzo2000/cool336/blob/main/firmware/cool336_vial.uf2　をPCにダウンロードしておく。
+① https://github.com/telzo2000/cool336/blob/main/firmware/cool336_vial.uf2　
+をPCにダウンロードしておく。
 
 <br><br>
 ② Connect the PC and RP-2040Zero with a USB cable.
@@ -138,7 +139,7 @@ The stabilizer will operate smoothly if it is greased.
 <br>
 <br>
 
-### 6 Fix the switch plate with screws
+### 6a Fix the switch plate(3D Print) with screws
 
 Place the 3D printed switch plate on the surface of the PCB.
 <br>
@@ -153,6 +154,24 @@ Insert four M2 screws (8mm) from the surface and secure with M2 spacers (3mm) on
 <br>
 
 ![](img/img00005.jpg)
+
+
+
+### 6b Fix the switch plate(Acrylic) with screws
+
+Insert the acrylic switch plate, the M2 spacer (3mm), and the M2 screw (8mm) in that order to secure it.
+<br>
+アクリルのスイッチプレート、M2スペーサー（3mm）の順でM2ネジ（8mm）の順で差し込んで固定します。
+<br><<br>
+Place the switch plate on the surface of the PCB.
+<br>
+スイッチプレートをPCBの表面に載せます。
+<br><br>
+Fix it with M2 spacer (3mm) on the back side of the PCB.
+<br>
+PCB裏側でM2スペーサー（3mm）で固定してください。
+<br><br>
+
 
 ### 7 Insert the key switch
 
