@@ -22,7 +22,7 @@ cool336 には ISO Enter キーと 7U の長いスペースキーがあります
 
 cool336 use RP2040-Zero,run qmk_firware.
 <br>
-Cool336 は RP2040-Zero を使用し、qmk_firware を実行します。
+cool336 は RP2040-Zero を使用し、qmk_firware を実行します。
 <br><br>
 
 ## build
