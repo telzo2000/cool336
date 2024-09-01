@@ -11,7 +11,7 @@ Do you have an unused ISO enter key or 7U space key in a corner of your room?
 <br>
 cool336 is qaz layout keyboard.
 <br>
-Cool336はqaz配列のキーボードです。
+cool336はqaz配列のキーボードです。
 <br><br>
 cool336 has a iso enter key and 7U long space key.
 <br>
