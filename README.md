@@ -20,7 +20,8 @@ cool336 には ISO Enter キーと 7U の長いスペースキーがあります
 
 # Layout
 
-![](img/cppl336.png)
+
+![](img/cool336.png)
 
 
 
