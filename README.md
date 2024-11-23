@@ -18,6 +18,13 @@ cool336 has a iso enter key and 7U long space key.
 cool336 には ISO Enter キーと 7U の長いスペースキーがあります。
 
 
+# Layout
+
+![](img/cppl336.png)
+
+
+
+
 ## firmware 
 
 cool336 use RP2040-Zero,run qmk_firware.
