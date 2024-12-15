@@ -22,6 +22,9 @@ cool336 には ISO Enter キーと 7U の長いスペースキーがあります
 
 ![](img/cool336.png)
 
+## How to get keycaps?
+
+https://yuzukeycaps.com/keyboards/cool336ble
 
 
 
