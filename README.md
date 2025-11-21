@@ -20,7 +20,7 @@ cool336 には ISO Enter キーと 7U の長いスペースキーがあります
 
 # Layout
 
-![](img/cool336.png)
+![](img/img00011.jpg)
 
 ## How to get keycaps?
 
