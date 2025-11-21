@@ -16,6 +16,12 @@ cool336はqaz配列のキーボードです。
 cool336 has a iso enter key and 7U long space key.
 <br>
 cool336 には ISO Enter キーと 7U の長いスペースキーがあります。
+<br>
+PCV ver1.2で７Uスペースバーを３Ux2、１Ux1の三分割スペースバーの選択ができるようになりました。
+<br>
+
+![](img/img00012.jpg)
+
 
 
 # Layout
@@ -62,7 +68,7 @@ https://github.com/telzo2000/cool336/blob/main/buildguide_for_cool336.md
 
 ## Parts list
 
-
+For PCB Ver.1.0
 | No. | Patrs | Quantity | remarks | Suppliers | Cost |
 |--|--|--|--|--|--|
 |番号|名前|数|備考|調達先|参考価格（送料込）|<br>
@@ -80,6 +86,24 @@ https://github.com/telzo2000/cool336/blob/main/buildguide_for_cool336.md
 |10|Conthrou<br>コンスルー|2|3.5mm|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)|１個400円程度|
 |11|Keyswitch<br>キースイッチ|36|お好みで|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
 |12|Keycap<br>キーキャップ|36|1Ux31、1.25Ux2、1.75Ux2、7Ux1|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)||
+
+
+For PCB Ver.1.2
+| No. | Patrs | Quantity | remarks | Suppliers | Cost |
+|--|--|--|--|--|--|
+|番号|名前|数|備考|調達先|参考価格（送料込）|<br>
+|1|PCB|1|36key|[elecrow](https://www.elecrow.com)<br>[JLCPCB](https://jlcpcb.com)<br>[ALLPCB](https://www.allpcb.com)|５枚で20〜30ドル|<br>
+|2|RP-2040Zero|1|MCU Board|[Talp Keyboard](https://talpkeyboard.net)|420円|
+|3|Swith socket<br>スイッチソケット|36~38|cherry MX互換|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
+|3|Diode<br>ダイオード|36~38|リードタイプでもSMDでも可|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
+|4|Switch plate|1|FR-4|[elecrow](https://www.elecrow.com)<br>[JLCPCB](https://jlcpcb.com)<br>[ALLPCB](https://www.allpcb.com)|５枚で20〜30ドル|
+|5|Bottom Case|1|3D Print||
+|6|Screw<br>ネジ|8|M2 6mm|DIY shop|10本200円程度|
+|7|Spacer<br>スペーサー|4|M2 10mm|DIY shop|10本400円程度|
+|8|Stabilizer<br>スタビライザー|2~3|2Ux1,7Ux1or3Ux2|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)|セットで2000円程度|
+|10|Conthrou<br>コンスルー|2|3.5mm|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)|１個400円程度|
+|11|Keyswitch<br>キースイッチ|36^38|お好みで|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)|１個100程度|
+|12|Keycap<br>キーキャップ|36|1Ux31~32、1.25Ux2、1.75Ux2、7Ux1or3Ux2|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)||
 
 
 In addition, you will need a USB cable, etc.
